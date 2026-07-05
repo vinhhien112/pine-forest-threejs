@@ -233,3 +233,5 @@ systems, and a runnable foundation that can survive aggressive iteration.
 
 Prototype, not production. It is meant to be opened, judged visually, pushed
 hard, and improved quickly.
+
+Built with Codex using GPT-5.5.

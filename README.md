@@ -2,6 +2,8 @@
 
 **A code-only WebGPU forest ravine that wants to feel alive before it becomes huge.**
 
+**[Launch the live WebGPU demo](https://threejs.harrysoftware.com)**
+
 LAAS is a fast vertical slice for a fully procedural browser world. It is not the
 entire v2 dream yet. It is the first playable, inspectable proof: a deterministic
 ravine scene with procedural terrain, stream water, dense conifers, ferns, storm
